@@ -1,4 +1,5 @@
 import customtkinter as ctk
+import tkinter
 from Determ_accel import AccelerationWindow
 from Determ_stiffness import StiffnessWindow
 
